@@ -1,0 +1,6 @@
+caches/8.11.1/generated-gradle-jars/gradle-api-8.11.1.jar
+caches/8.11.1/transforms/2808fad2bc90d75494ed720eb50db5cb/transformed/instrumented/instrumented-kotlin-compiler-embeddable-2.0.21.jar
+caches/8.11.1/transforms/5612f4d0179768db75e44873f1c5c8bd/transformed/original/gradle-api-8.12.jar
+caches/8.11.1/transforms/5d4ddc7fc66f2f2694e429ea131f6c15/transformed/instrumented/instrumented-gradle-api-8.12.jar
+caches/jars-9/o_05b91c8a727ce0a6db707467668252d4/lib.jar
+caches/jars-9/o_91744f99c7aa3c3eed07fd1e6a241221/gradle-api-8.12.jar

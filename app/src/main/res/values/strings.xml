@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyRestApp_Eboigbe</string>
+    <string name="toastErrUser">Username errato</string>
+    <string name="toastErrPwd">Password errata</string>
+    <string name="toastAccess">Accesso effettuato. Benvenuto!</string>
+    <string name="toastDenied">Credenziali errate. Riprova.</string>
+    <string name="accedi">Accedi</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="search_movies">🔍 Cerca film</string>
+    <string name="webview">🌐 Apri WebView</string>
+    <string name="ricerca_il_film">Ricerca un film</string>
+    <string name="ricerca">Cerca</string>
+    <string name="poster_del_film">Poster del film</string>
+    <string name="titolo">Titolo</string>
+    <string name="anno">Anno</string>
+    <string name="titolom">Titolo</string>
+    <string name="annom">Anno</string>
+</resources>

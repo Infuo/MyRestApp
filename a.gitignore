@@ -1,0 +1,11 @@
+# Build files
+/build/
+/.gradle/
+/out/
+/caches/
+
+# Big files
+*.jar
+*.zip
+*.log
+*.exe
